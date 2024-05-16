@@ -1,17 +1,16 @@
-# ATLIQ Hardware Sales Analysis Power BI Project
+# <h1>ATLIQ-HARDWARE-SALES-INSIGHTS-DATA-ANALYSIS-AND-VISUALIZATION</h1>
+<h5>Microsoft Power Bi, Mysql, Data Wrangling.</h5>
 
-Harnessing the power of Microsoft Power BI and MySQL, this project dives deep into sales transactions, customer behaviors, product performance, and market dynamics.
-
-By leveraging MySQL to access and manage extensive datasets, we perform comprehensive ETL (Extract, Transform, Load) and data wrangling operations within Power BI. This meticulous process ensures data integrity and readiness for analysis.
-
-The culmination of this project is a robust, interactive dashboard that delivers profound sales insights for Atliq Hardware. This dynamic tool empowers stakeholders to make informed, data-driven decisions, driving business growth and market competitiveness.
-
-**TOTAL SALES**
-![image](https://github.com/Aakashsedha/ATLIQ-HARDWARE-SALES-ANALYSIS-POWER-BI-PROJECT1-/assets/92659794/ab619e94-f6bb-445a-98b3-a1153e80ef27)
-
-**SALES 2019**
-![image](https://github.com/Aakashsedha/ATLIQ-HARDWARE-SALES-ANALYSIS-POWER-BI-PROJECT1-/assets/92659794/6a012836-ca9d-4e5b-88f5-e2b6f2fb4660)
-
-**SALES 2020**
-![image](https://github.com/Aakashsedha/ATLIQ-HARDWARE-SALES-ANALYSIS-POWER-BI-PROJECT1-/assets/92659794/3e8d9b4a-af6d-4e86-99c1-118ff9706a87)
+<p>
+Mysql database has all sales transactions, customers, products and markets information.
+I have analyse this database and than hook it up with power BI. In power BI I perform
+ETL and data cleaning operations to make it ready so that we can build our dashboard. Then
+build a powerful dashboard that can help us generate sales insights on Atliq hardware business. .
+</P>
+<h4>TOTAL SALES</h4>
+<img src="dashboard1.PNG" alt="Sales Insights">
+<h4>SALES 2019</h4>
+<img src="dashboard2.PNG" alt="Sales Insights">
+<h4>SALES 2020</h4>
+<img src="dashboard3.PNG" alt="Sales Insights">
 
